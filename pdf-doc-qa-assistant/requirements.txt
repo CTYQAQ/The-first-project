@@ -1,0 +1,6 @@
+hello-agents==0.2.8
+gradio
+python-dotenv
+qdrant-client
+numpy
+PyMuPDF
